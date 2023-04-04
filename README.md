@@ -82,4 +82,5 @@ if __name__ == '__main__':
 
 ```
 
-
+<br>
+Now just run this code in python and all the logs will be in the "list" variable.
