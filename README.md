@@ -1,5 +1,5 @@
 # trendmicro emailsecurity api python
-how to get trend micro email security (tmes) API data with python
+how to get trend micro email security (tmes) API data with python, these code takes all logs that trigger inbound policies
 
 <br>
 <h3> 1) first step - get your emailsecurity username:</h3>
